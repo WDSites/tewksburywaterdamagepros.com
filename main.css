@@ -324,3 +324,5 @@ main ul+p,main ol+p,main table+p{margin-top:14px}
 .sticky-cta{z-index:90}
 
 .fig{margin:1.6rem 0}.fig img{display:block;width:100%;height:auto;border-radius:12px;aspect-ratio:16/9;object-fit:cover}
+.chip-h{font-size:1rem;margin:18px 0 8px;color:var(--navy)}
+.sec-sub{max-width:720px;color:var(--mute);margin:0 0 8px}
